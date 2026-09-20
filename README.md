@@ -1,6 +1,6 @@
 # Internship Documentation — Cybersecurity
 
-## 📌 Student Details
+## -> Student Details
 - **Name:** Singamsetty Shanmukha
 - **Program:** B.Tech Computer Science & Engineering (Specialization in Cybersecurity)
 - **University:** IILM University
@@ -15,7 +15,7 @@ This repository contains the required documentation for the evaluation of the Cy
    - Comprehensive report detailing the weekly progress, domain-specific tasks, network analysis, vulnerability assessment workflows, and web application security assessment report.
    
 2. **Internship Presentation (`Cybersecurity_Internship_Presentation PPT.pdf`)**
-   - Slide deck summarizing key learnings, security testing methodologies, findings, and project outcomes.
+   - PPT Presentation summarizing key learnings, security testing methodologies, findings, and project outcomes.
 
 3. **Internship Completion Certificate (`Certificate_Singamsetty_Shanmukha_PDF.pdf`)**
    - Official completion certificate verifying the internship duration and performance.
